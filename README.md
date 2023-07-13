@@ -12,9 +12,15 @@ Based on the request that was made from the business we following user stories w
 | 3    | Sales Representative | A detailed overview of Internet Sales per Products  | Can follow up my Products that sells the most                            | A Power BI dashboard which allows me to filter data for each Product  |
 | 4    | Sales Manager        | A dashboard overview of internet sales              | Follow sales over time against budget                                    | A Power Bi dashboard with graphs comparing sales against budget.      |
 
-## Excel Data Cleaning - (... file)
+## Excel Data Cleaning - (Dim_Customer - data cleaning.xlsx)
+Cleaned and imported to MS SQL Server Dim_custoemr table in Excel
 
-## SQL Data Cleansing, Transformation and Exploration (SQL Data Exploration and sql table queries files)
-To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories the following tables were extracted using SQL.
+
+
+## SQL Data Cleansing, Transformation and Exploration (SQL Data Exploration.sql, SQL table queries.sql files)
+To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories the following tables were extracted using SQL (Dim_Calendar, Dim_Products, Dim_Customer, Fact_Internet_Sales)
 Also I Explored the data and made a preliminary analysis
 One data source (sales budgets) were provided in Excel format and were connected in the data model in a later step of the process.
+
+## Power BI Dashboard (Sales Dashboard 1.pbix)
+screen
