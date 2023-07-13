@@ -43,3 +43,4 @@ The finished sales management dashboard with two pages:
   1. Sales Overview
   2. Customer Details
 <p><b>Click on the picture to open the interactive dashboard in web </b></p>
+<a href="https://app.powerbi.com/groups/me/reports/99ed7f02-907c-43b0-b65e-e7054306a503/ReportSection?experience=power-bi" target = 'blank' class="image main"><img src="images/Full Project1.jpg" alt="" /></a>
