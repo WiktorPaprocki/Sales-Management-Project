@@ -17,7 +17,7 @@ Based on the request that was made from the business we following user stories w
 | 3    | Sales Representative | A detailed overview of Internet Sales per Products  | Can follow up my Products that sells the most                            | A Power BI dashboard which allows me to filter data for each Product  |
 | 4    | Sales Manager        | A dashboard overview of internet sales              | Follow sales over time against budget                                    | A Power Bi dashboard with graphs comparing sales against budget.      |
 
-## Excel Data Cleaning - (Dim_Customer - data cleaning.xlsx)
+## Excel Data Cleaning (Dim_Customer - data cleaning.xlsx)
 Cleaned Dim_Customer table in Microsoft Excel:
 - removed unnecessary columns
 - checked if there was any duplicates in table - no duplciates found
