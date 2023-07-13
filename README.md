@@ -2,7 +2,7 @@
 
 ## Database
 Link to database: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
-Database used in project : AddventureWorksDW2022.bak
+<p>Database used in project : AddventureWorksDW2022.bak
 Uploaded lightweiht version of database because of too big size of the original database file.
 
 ## Business Request & User Stories
