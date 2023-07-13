@@ -42,4 +42,4 @@ Imported necessary tables into Power BI and created relationships which are show
 The finished sales management dashboard with two pages:
   1. Sales Overview
   2. Customer Details
-<p><b>Click on the picture to open the interactive dashboard in web </b>
+<p><b>Click on the picture to open the interactive dashboard in web </b></p>
