@@ -43,3 +43,4 @@ The finished sales management dashboard with two pages:
   1. Sales Overview
   2. Customer Details
 <p> Click on the picture to open the interactive dashboard in web 
+dsadsa
