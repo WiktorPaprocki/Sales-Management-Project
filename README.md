@@ -46,4 +46,6 @@ The finished sales management dashboard with two pages:
 [Click here to open interactive dashboard](https://app.powerbi.com/groups/me/reports/99ed7f02-907c-43b0-b65e-e7054306a503/ReportSection?experience=power-bi)
 
 ![Full Project1](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/c09ba119-4a81-4296-851b-467aef35ff4a)
+![Full Project2](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/7ec7a888-f3d6-4a2a-9710-9a7b1bd1e0e6)
+
 
