@@ -43,4 +43,5 @@ The finished sales management dashboard with two pages:
   1. Sales Overview
   2. Customer Details
 <p><b>Click on the picture to open the interactive dashboard in web </b></p>
-![Full Project1](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/f3c34e05-85cd-48ba-8ffe-0643f728c012)
+![Full Project1](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/c09ba119-4a81-4296-851b-467aef35ff4a)
+
