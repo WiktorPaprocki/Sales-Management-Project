@@ -38,7 +38,7 @@ I also explored the data and made a preliminary analysis in MS SQL Server.
 ## Power BI Dashboard (Sales Dashboard 1.pbix)
 Imported necessary tables into Power BI and created relationships which are shown on the screenshot below
 ![Power BI relationships](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/1ac6d27d-4ddb-45ca-82fa-5fb45723bfed)
-<br>
+<br><br>
 The finished sales management dashboard with two pages:
 1. Sales Overview
 2. Customer Details
