@@ -22,7 +22,7 @@ Cleaned Dim_Customer table in Microsoft Excel:
 - removed unnecessary columns
 - checked if there was any duplicates in table - no duplciates found
 - replaced M with Married and S with Single in MaritalStatus column
-- Replaced M with Male and F with Female in Gender column
+- replaced M with Male and F with Female in Gender column
 - imported DimCustomerCleaned table into MS SQL Server
 
 
