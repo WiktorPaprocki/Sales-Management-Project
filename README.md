@@ -43,9 +43,8 @@ The finished sales management dashboard with two pages:
   1. Sales Overview
   2. Customer Details
 
-[Click here to open interactive dashboard](https://app.powerbi.com/groups/me/reports/99ed7f02-907c-43b0-b65e-e7054306a503/ReportSection?experience=power-bi)
-
-![Full Project1](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/c09ba119-4a81-4296-851b-467aef35ff4a)
+![Sales Management Project](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/70f4a9a8-93d5-46b8-9407-3ba54ca5c7d9)
+![Salest Management Project 2](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/b184cdcf-521b-4316-83cd-9f45e348d71d)
 ![Full Project2](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/7ec7a888-f3d6-4a2a-9710-9a7b1bd1e0e6)
 
 
