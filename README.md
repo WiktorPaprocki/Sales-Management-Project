@@ -26,7 +26,7 @@ Cleaned Dim_Customer table in Microsoft Excel:
 - imported DimCustomerCleaned table into MS SQL Server
 
 
-## SQL Data Cleansing, Transformation and Exploration (SQL Data Exploration.sql, SQL table queries.sql files)
+## SQL Data Cleaning, Transformation and Exploration (SQL Data Exploration.sql, SQL table queries.sql files)
 To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories the following tables were extracted using SQL:
 - Dim_Calendar,
 - Dim_Products,
