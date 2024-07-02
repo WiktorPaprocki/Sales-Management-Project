@@ -34,7 +34,7 @@ The finished sales management dashboard with two pages:
   1. Sales Overview
   2. Customer Details
 
-![Sales Management Project](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/70f4a9a8-93d5-46b8-9407-3ba54ca5c7d9)
-![Salest Management Project 2](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/b184cdcf-521b-4316-83cd-9f45e348d71d)
+![Sales Management Project3](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/40fcb827-c51e-4818-a867-1e19e5ec6a9e)
+![Customer Details](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/fa045b1e-28b2-4dfa-8fb4-83ad18473385)
 
 
