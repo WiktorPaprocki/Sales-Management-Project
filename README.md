@@ -23,11 +23,11 @@ To create the necessary data model for doing analysis and fulfilling the busines
 - Dim_Customer,
 - Fact_Internet_Sales
 One data source (sales budgets) were provided in Excel format and were connected in the data model in a later step of the process.
-I also explored the data and made a preliminary analysis in MS SQL Server.
+<br /> I also explored the data and made a preliminary analysis in MS SQL Server.
 
 ## Power BI Dashboard (Sales Dashboard 1.pbix)
 Imported necessary tables into Power BI and created relationships which are shown on the screenshot below
-Created Calendar Table and changed data types to proper
+<br /> Created Calendar Table and changed data types to proper
 ![Power BI relationships](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/1ac6d27d-4ddb-45ca-82fa-5fb45723bfed)
 
 The finished sales management dashboard with two pages:
