@@ -28,7 +28,7 @@ One data source (sales budgets) were provided in Excel format and were connected
 ## Power BI Dashboard (Sales Dashboard 1.pbix)
 Imported necessary tables into Power BI and created relationships which are shown on the screenshot below
 <br /> Created Calendar Table and changed data types to proper
-![Power BI relationships](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/1ac6d27d-4ddb-45ca-82fa-5fb45723bfed)
+![relacje](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/3c3793f1-127c-47e5-a0e8-0b6a06213275)
 
 The finished sales management dashboard with two pages:
   1. Sales Overview
