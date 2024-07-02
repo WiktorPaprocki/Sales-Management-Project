@@ -1,10 +1,3 @@
---Dim_Calendar Table Query
-
-SELECT DateKey, FullDateAlternateKey AS Date, EnglishDayNameOfWeek AS Day, EnglishMonthName AS Month, LEFT(EnglishMonthName, 3) AS Month_short,  WeekNumberOfYear AS Week_number, 
-MonthNumberOfYear AS Month_number, CalendarQuarter AS Quater, CalendarYear AS year
-FROM DimDate
-WHERE CalendarYear >= 2019
-
 --Dim_Customer Table Query
 
 SELECT cust.customerkey AS CustomerKey, 
