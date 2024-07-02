@@ -17,18 +17,8 @@ Based on the request that was made from the business we following user stories w
 | 3    | Sales Representative | A detailed overview of Internet Sales per Products  | Can follow up my Products that sells the most                            | A Power BI dashboard which allows me to filter data for each Product  |
 | 4    | Sales Manager        | A dashboard overview of internet sales              | Follow sales over time against budget                                    | A Power Bi dashboard with graphs comparing sales against budget.      |
 
-## Excel Data Cleaning (Dim_Customer - data cleaning.xlsx)
-Cleaned Dim_Customer table in Microsoft Excel:
-- removed unnecessary columns
-- checked if there was any duplicates in table - no duplciates found
-- replaced M with Married and S with Single in MaritalStatus column
-- replaced M with Male and F with Female in Gender column
-- imported DimCustomerCleaned table into MS SQL Server
-
-
 ## SQL Data Cleaning, Transformation and Exploration (SQL Data Exploration.sql, SQL table queries.sql files)
 To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories the following tables were extracted using SQL:
-- Dim_Calendar,
 - Dim_Products,
 - Dim_Customer,
 - Fact_Internet_Sales
@@ -37,6 +27,7 @@ I also explored the data and made a preliminary analysis in MS SQL Server.
 
 ## Power BI Dashboard (Sales Dashboard 1.pbix)
 Imported necessary tables into Power BI and created relationships which are shown on the screenshot below
+Created Calendar Table and changed data types to proper
 ![Power BI relationships](https://github.com/WiktorPaprocki/Sales-Management-Project/assets/125204368/1ac6d27d-4ddb-45ca-82fa-5fb45723bfed)
 
 The finished sales management dashboard with two pages:
